@@ -27,7 +27,7 @@ Version 1 completed and hosted
 
 
 <h2>Home Page</h2>
-<img src="https://github.com/nusratdevo/interactive_test/edit/main/screen/screen01.png" height="400">
+<img src="https://github.com/nusratdevo/interactive_test/blob/main/screen/screen01.PNG" height="400">
 ---
 
 
