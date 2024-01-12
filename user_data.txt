@@ -1,0 +1,2 @@
+nusrat, 12@sdK, nusrat@gmail.com, http://www.foo.com, 1686608828, github.com/nusratdevo/django-crudajax, www.linkedin.com/in/nusrat-bhuiyan-43833b21a/, dsfdssf
+anita, 12@sdK, nusrat@gmail.com, http://www.foo.com, 1686608828, github.com/nusratdevo/django-crudajax, www.linkedin.com/in/nusrat-bhuiyan-43833b21a/, 2
