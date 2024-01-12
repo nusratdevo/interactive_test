@@ -9,7 +9,9 @@ The application is Developed by following Features:
 * password validation by many option and cofirm_pass
 * This application also view Resume List
 * In application  can be delete username
- 
+
+ ### Interactive test vedio Link ###
+ https://drive.google.com/file/d/1_itp5NNqFN_437KVuqv6ab79IfDB0UMu/view?usp=sharing
 
 ## Getting Started
 
